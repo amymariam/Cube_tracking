@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import imutils
 
 # Input video
-cap = cv2.VideoCapture('C://Users//Admin//Desktop//muku//newnewnew.mp4')
+cap = cv2.VideoCapture('cube.mp4')
 
 # Define the lower and upper purple color thresholds
 lower_purple = np.array([120, 50, 50])
